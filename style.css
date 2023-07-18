@@ -1,7 +1,14 @@
 body{
     color:rgb(231, 231, 231);
     background-color: rgb(32, 32, 32);
-    font-family:sans-serif;
+    font-family:"Lucida Console",monospace;
+}
+
+.navBar{
+    padding:10px;
+    border-color:bisque;
+    border-radius:15px;
+    border-style:solid;
 }
 
 #mainTitle{
