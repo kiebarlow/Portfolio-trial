@@ -1,18 +1,21 @@
 body{
-    color:rgb(231, 231, 231);
-    background-color: rgb(32, 32, 32);
-    font-family:"Lucida Console",monospace;
+    color:rgb(197, 197, 197);
+    background-color: rgb(32, 32, 32); 
+    font-family:'Trebuchet MS', Arial, sans-serif;
+   
 }
 
 .navBar{
-    padding:10px;
-    border-color:bisque;
-    border-radius:15px;
-    border-style:solid;
+    padding:5px;
+    border-bottom:solid;
+    border-width:1px;
+    border-color:rgb(73, 73, 73);
 }
 
 #mainTitle{
-    margin:auto;
-    padding:auto;
+    padding:none;
+    margin:none;
     text-align: center;
+    font-size:35px;
+    font-weight: 200;
 }
