@@ -18,7 +18,8 @@ body{
   padding:10px;
   margin:none;
   width: 25px;
-transition:width 0.5s;
+  height:25px;
+transition:width 0.5s, height 0.5s;
 }
 
 
@@ -79,5 +80,6 @@ transition:width 0.5s;
 
   .taskBarImg:hover{
     width:35px;
+    height:35px;
   }
   
