@@ -21,14 +21,19 @@ body{
 }
 
 
+.taskBarImg {
+ width: 25px;
+}
+
+
 
 
 /* Style The Dropdown Button */
 .dropbtn {
-    background-color: #757575;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
+    color: black;
+    background: none;
+    padding: 10px;
+    font-size: 10px;
     border: none;
     cursor: pointer;
   }
@@ -67,6 +72,6 @@ body{
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {
-    background-color: #494949;
+    transform:rotate(90deg);
   }
   
